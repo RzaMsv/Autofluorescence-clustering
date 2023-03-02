@@ -1,4 +1,3 @@
-Cell sorting with "Autofluorescence" activity
 The aim of this code is to show that there is a cell-specific autofluorescence acitivity, and it can be used to sort cell types using algorithms
 Spectral flow cytometry or full-spectrum profiling (FPS) is a sophisticated form of conventional flow cytometry that enable us to stain our cell with more than 100 antibodies.
 There is an initial step in using FPS through which we reduce the autofluorescence of cell in each channel (wavelenght) from the strong signal enowed to cells by fluorescent-conjugated antibodies.
